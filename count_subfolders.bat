@@ -1,7 +1,7 @@
 @echo off
 
 if "%1"=="" (
-  echo Usage: count_subfolders.bat [folder_path1] [folder_path2] ...
+  echo Usage: count_subfolders [folder_path1] [folder_path2] ...
   echo.
   echo This script counts the number of subfolders in a given folder.
   echo.
